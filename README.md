@@ -15,6 +15,10 @@ Folders and files:
 1. Clone the repository into your local environment
 2. Open the index.html file
 3. Right click and select 'Open Default browser' to open the project in your default browser.
+
+# Roadmap of Future Improvements
+
+Multiple pacmen moving randomly withouth touching each other
     
 ![image](https://user-images.githubusercontent.com/33680240/163706434-53aad1f1-ec89-4169-94ee-038e4cadde70.png)
 
